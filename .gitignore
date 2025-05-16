@@ -2,4 +2,3 @@ checkpoints
 data
 logs
 .ipynb_checkpoints
-saved_models
